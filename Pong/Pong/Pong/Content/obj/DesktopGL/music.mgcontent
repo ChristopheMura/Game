@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Chris/Desktop/Developpement/Game/vs/Pong/Pong/Pong/Content/music.mp3</SourceFile>
+  <SourceTime>2023-04-01T16:26:27.8376608+02:00</SourceTime>
+  <DestFile>C:/Users/Chris/Desktop/Developpement/Game/vs/Pong/Pong/Pong/Content/bin/DesktopGL/music.xnb</DestFile>
+  <DestTime>2023-04-01T21:37:12.5226259+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Chris/Desktop/Developpement/Game/vs/Pong/Pong/Pong/Content/bin/DesktopGL/music.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
